@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dxny-aep
 - 👀 I’m interested in coding, video editing and photography
-- 🌱 I’m currently learning how to code and i'm a begginer
+- 🌱 Campus Ambassador at EduLaddr
 - 💞️ I’m looking to collaborate on begginer level projects 
 - 📫 My Instagram handle: https://www.instagram.com/camkicked
 
