@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dxny-aep
 - 👀 I’m interested in coding, video editing and photography
-- 🌱 Campus Ambassador at EduLaddr
+- 🌱 Digital lead at GDSC JDCOEM
 - 💞️ I’m looking to collaborate on begginer level projects 
 - 📫 My Instagram handle: https://www.instagram.com/camkicked
 
