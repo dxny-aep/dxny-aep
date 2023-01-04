@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dxny-aep
-- 👀 I’m interested in coding, video editing and photography
+- 👋 Hi, I’m Danish
+- 👀 I’m interested in Web 3.0, BL Development and Visual Arts
 - 🌱 Digital lead at GDSC JDCOEM
-- 💞️ I’m looking to collaborate on begginer level projects 
+- 💞️ I’m looking to collaborate on web development projects 
 - 📫 My Instagram handle: https://www.instagram.com/camkicked
 
 <!---
