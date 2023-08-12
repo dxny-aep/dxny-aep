@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Danish
 - 👀 I’m interested in Web 3.0, BL Development and Visual Arts
-- 🌱 Digital lead at GDSC JDCOEM
+- 🌱 Lead at GDSC JDCOEM
 - 💞️ I’m looking to collaborate on web development projects 
 - 📫 My Instagram handle: https://www.instagram.com/camkicked
 
